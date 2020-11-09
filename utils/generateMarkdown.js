@@ -26,14 +26,14 @@ ${data.Instructions}
 ${data.Email}
 ------------------------------------------
 ## Table of Contents
-[Title]
-[Description]
-[Installation]
-[Usage]
-[Licenses]
-[Contributing]
-[Test Instructions]
-[Questions]
+[Title](https://github.com/NPitroff/Nicolai_Node_ReadMe/blob/master/readme.md#g)
+[Description](https://github.com/NPitroff/Nicolai_Node_ReadMe/blob/master/readme.md#description)
+[Installation](https://github.com/NPitroff/Nicolai_Node_ReadMe/blob/master/readme.md#installation)
+[Usage](https://github.com/NPitroff/Nicolai_Node_ReadMe/blob/master/readme.md#usage)
+[Licenses](https://github.com/NPitroff/Nicolai_Node_ReadMe/blob/master/readme.md#licenses)
+[Contributing](https://github.com/NPitroff/Nicolai_Node_ReadMe/blob/master/readme.md#contributing)
+[Test Instructions](https://github.com/NPitroff/Nicolai_Node_ReadMe/blob/master/readme.md#test-instructions)
+[Questions](https://github.com/NPitroff/Nicolai_Node_ReadMe/blob/master/readme.md#questions)
 `;
 }
 

@@ -1,14 +1,14 @@
-# Nicolai's Node Readme
+# "Nicolai's Node Readme"
   [![License:APX](https://img.shields.io/badge/Apache%20-License%202.0-red)]
   ---------------------------------------
   ## Description
   This is a program utilizing Node to generate a readme
   ---------------------------------------
 ## Installation
-The steps include installing inquirer, filling out an array, and initiallizing with JS
+1. Create a `package.json`file in your project folder ("run npm init") so that the project can be utilized by other users 2. Install the `inquirer`npm package("npm i inquirer") so that the project can utilize the pre-written questions loaded in that file. 3. write out the commands in your own index file (A template is located within the github repo of "https://github.com/NPitroff/Nicolai_Node_ReadMe" 4. Open up either a dedicated terminal in VS code, a git bash terminal, or other such directory and execute the code with "nod index.js" 5. Push to the github repo with the updates you logged into the readme. 6. Share your code with the world! 
 ------------------------------------------
 ## Usage
-This is to be used for homework at the memoent, but for future use in the workplace eventually
+This project is used to generate a readme file for any project using node exclusively, and also generates different divisions within the code to make that readme legible to human eyes
 ------------------------------------------
 ## Licenses
 MIT License
@@ -17,14 +17,14 @@ MIT License
 Nicolai Pitroff
 ------------------------------------------
 ## Test Instructions
-I have ran numerous tests to make sure the readme is generated
+n/a
 ------------------------------------------
 ## Questions
 ![profile-picture](https://avatars3.githubusercontent.com/u/11791361?v=4=250x)
 nicolai.pitroff@gmail.com
 ------------------------------------------
 ## Table of Contents
-[Title](https://github.com/NPitroff/Nicolai_Node_ReadMe/blob/master/readme.md#g)
+[Title](https://github.com/NPitroff/Nicolai_Node_ReadMe/blob/master/readme.md#)
 [Description](https://github.com/NPitroff/Nicolai_Node_ReadMe/blob/master/readme.md#description)
 [Installation](https://github.com/NPitroff/Nicolai_Node_ReadMe/blob/master/readme.md#installation)
 [Usage](https://github.com/NPitroff/Nicolai_Node_ReadMe/blob/master/readme.md#usage)
